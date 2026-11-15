@@ -16,8 +16,6 @@ Self-hosted agents can read files, run commands and send messages once you conne
 
 These tools can look like commercial chat apps, coding assistants or workflow products, but they are not exact substitutes for Claude Desktop, Claude Code, Grok Bot, n8n Cloud or Midjourney. Licences vary, including fair-code and source-available terms. Connecting an agent to Telegram, Discord, Slack, email or an API wallet gives it a path to your messages and secrets; review the project, its licence and its permission model first. Model licences are separate from tool licences. Inference runtimes such as Ollama, llama.cpp and vLLM are listed in Awesome Craft AI.
 
-Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI), [Awesome Craft DeepSeek](https://github.com/EdisonTKPcom/Awesome-Craft-DeepSeek).
-
 ## Contents
 
 - [Dashboard](#dashboard)
@@ -26,6 +24,8 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [
 - [Agent bots](#agent-bots)
 - [Workflow automation](#workflow-automation)
 - [Image and video generation UIs](#image-and-video-generation-uis)
+- [Related lists](#related-lists)
+- [Star history](#star-history)
 
 ## Dashboard
 
@@ -40,7 +40,9 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [
 </tr>
 </table>
 
-Stats snapshot taken on 2026-11-15 from the GitHub API, for GitHub-hosted repositories only. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates. Star badges next to GitHub entries update live.
+**FACT** (snapshot taken 2026-11-15, GitHub API): 27 listed projects, 27 of them on GitHub with public repository statistics. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates.
+
+**ESTIMATE**: 2.44M combined GitHub stars and 436.3k combined forks, summed from those API counts on the snapshot date. Live star badges next to GitHub entries may differ.
 
 ### 🏆 Leaderboard
 
@@ -118,6 +120,28 @@ pie showData
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - A simplified, local, diffusion-based image-generation UI. Check the repository licence and the licences of any model files you load. ![Stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=flat-square&label=%E2%AD%90)
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - A self-hosted creative toolkit for running diffusion models, with a professional-oriented UI. Model licences remain separate. ![Stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=flat-square&label=%E2%AD%90)
 - [SD.Next](https://github.com/vladmandic/sdnext) - A maintained automatic1111-style web UI for local Stable Diffusion and related models, also known as sdnext. Model licences remain separate. ![Stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=flat-square&label=%E2%AD%90)
+
+## Related lists
+
+Other lists in the Awesome Craft series:
+
+- [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft) - A curated list of open-source, self-hostable alternatives to popular SaaS tools.
+- [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI) - A curated list of open-source, self-hostable AI runtimes, servers, Hugging Face libraries and related infrastructure.
+- [Awesome Craft BSC](https://github.com/EdisonTKPcom/Awesome-Craft-BSC) - A curated list of verified open-source clients, SDKs, dev tools and protocol code for BNB Smart Chain and opBNB.
+- [Awesome Craft CUDA](https://github.com/EdisonTKPcom/Awesome-Craft-CUDA) - A curated list of open-source CUDA learning material, kernel libraries, tooling and portability projects.
+- [Awesome Craft DeepSeek](https://github.com/EdisonTKPcom/Awesome-Craft-DeepSeek) - A curated list of official DeepSeek repositories and open-source harnesses, serving engines, eval tools and fine-tuning stacks that work with DeepSeek models.
+- [Awesome Craft DevOps](https://github.com/EdisonTKPcom/Awesome-Craft-DevOps) - A curated list of open-source, self-hostable alternatives to popular DevOps and hosting SaaS tools.
+- [Awesome Craft Ethereum](https://github.com/EdisonTKPcom/Awesome-Craft-Ethereum) - A curated list of verified open-source Ethereum clients, SDKs, dev frameworks, wallets and security tools.
+- [Awesome Craft EV](https://github.com/EdisonTKPcom/Awesome-Craft-EV) - A curated list of open-source software and hardware for electric vehicles and charging.
+- [Awesome Craft Hardware](https://github.com/EdisonTKPcom/Awesome-Craft-Hardware) - A curated list of open-source tools for PCB, FPGA, ASIC and chip design.
+- [Awesome Craft Hyperliquid](https://github.com/EdisonTKPcom/Awesome-Craft-Hyperliquid) - A curated list of verified open-source SDKs, node tools, analytics and community libraries for the Hyperliquid ecosystem.
+- [Awesome Craft Malaysia](https://github.com/EdisonTKPcom/Awesome-Craft-Malaysia) - A curated list of open-source tools useful to Malaysian SMEs, with verified MyInvois support called out separately.
+- [Awesome Craft Solana](https://github.com/EdisonTKPcom/Awesome-Craft-Solana) - A curated list of verified open-source Solana clients, SDKs, frameworks, explorers and program libraries.
+- [Awesome Craft Web3](https://github.com/EdisonTKPcom/Awesome-Craft-Web3) - A curated list of open-source DEX protocol code, self-custody software, indexers, frameworks and Blockchain infrastructure.
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/chart?repos=EdisonTKPcom/Awesome-Craft-Agents&amp;type=Date)](https://www.star-history.com/#EdisonTKPcom/Awesome-Craft-Agents&Date)
 
 ## Contributing
 
