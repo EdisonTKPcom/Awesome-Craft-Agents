@@ -115,6 +115,7 @@ pie showData
 - [n8n](https://github.com/n8n-io/n8n) - A workflow automation platform. n8n uses a fair-code, source-available licence (Sustainable Use License), not an OSI open-source licence; read it before you host or resell it for clients. ![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&label=%E2%AD%90)
 - [Node-RED](https://github.com/node-red/node-red) - A flow-based, low-code automation runtime, widely used for wiring APIs, devices and services. ![Stars](https://img.shields.io/github/stars/node-red/node-red?style=flat-square&label=%E2%AD%90)
 - [Windmill](https://github.com/windmill-labs/windmill) - An open-source developer platform and workflow engine for scripts, flows and internal tools. ![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=flat-square&label=%E2%AD%90)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted MCP server for searching under-400-capacity live music venues, booking contacts, and tour routes.
 
 ## Image and video generation UIs
 
