@@ -1,0 +1,130 @@
+<div align="center">
+
+# Awesome Craft Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of open-source chat apps, coding agents, self-hosted agent bots, workflow automation and image-generation UIs.
+
+![Tools](https://img.shields.io/badge/tools-27-6366f1?style=for-the-badge)
+[![Categories](https://img.shields.io/badge/categories-5-0ea5e9?style=for-the-badge)](#contents)
+[![Combined stars](https://img.shields.io/badge/combined_stars-2.44M-f59e0b?style=for-the-badge&logo=github)](#-leaderboard)
+[![Stars](https://img.shields.io/github/stars/EdisonTKPcom/Awesome-Craft-Agents?style=for-the-badge&color=22c55e)](https://github.com/EdisonTKPcom/Awesome-Craft-Agents/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/EdisonTKPcom/Awesome-Craft-Agents?style=for-the-badge&color=ec4899)](https://github.com/EdisonTKPcom/Awesome-Craft-Agents/commits/main)
+
+</div>
+
+Self-hosted agents can read files, run commands and send messages once you connect tools or chat accounts. Review the project, licence and permission model before adding API keys, wallets or inboxes. This list is not a recommendation to grant those permissions, and it is not investment advice.
+
+These tools can look like commercial chat apps, coding assistants or workflow products, but they are not exact substitutes for Claude Desktop, Claude Code, Grok Bot, n8n Cloud or Midjourney. Licences vary, including fair-code and source-available terms. Connecting an agent to Telegram, Discord, Slack, email or an API wallet gives it a path to your messages and secrets; review the project, its licence and its permission model first. Model licences are separate from tool licences. Inference runtimes such as Ollama, llama.cpp and vLLM are listed in Awesome Craft AI.
+
+Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI), [Awesome Craft DeepSeek](https://github.com/EdisonTKPcom/Awesome-Craft-DeepSeek).
+
+## Contents
+
+- [Dashboard](#dashboard)
+- [Chat apps](#chat-apps)
+- [Coding agents](#coding-agents)
+- [Agent bots](#agent-bots)
+- [Workflow automation](#workflow-automation)
+- [Image and video generation UIs](#image-and-video-generation-uis)
+
+## Dashboard
+
+<table>
+<tr>
+<td align="center"><h2>27</h2>listed projects</td>
+<td align="center"><h2>5</h2>categories</td>
+<td align="center"><h2>2.44M</h2>combined GitHub stars</td>
+<td align="center"><h2>436.3k</h2>combined forks</td>
+<td align="center"><h2>24/27</h2>pushed in the last 30 days</td>
+<td align="center"><h2>4</h2>languages</td>
+</tr>
+</table>
+
+Stats snapshot taken on 2026-11-15 from the GitHub API, for GitHub-hosted repositories only. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates. Star badges next to GitHub entries update live.
+
+### 🏆 Leaderboard
+
+<table>
+<tr><th>Rank</th><th>Project</th><th>Kind</th><th align="right">Stars</th><th></th></tr>
+<tr><td align="center">🥇</td><td><b>OpenClaw</b></td><td>Personal agent bot</td><td align="right">394.5k</td><td><code>████████████████████</code></td></tr>
+<tr><td align="center">🥈</td><td><b>Hermes Agent</b></td><td>Personal agent bot</td><td align="right">263.5k</td><td><code>█████████████</code></td></tr>
+<tr><td align="center">🥉</td><td><b>OpenCode</b></td><td>CLI coding agent</td><td align="right">226.9k</td><td><code>████████████</code></td></tr>
+<tr><td align="center">4</td><td><b>n8n</b></td><td>Workflow automation</td><td align="right">210.6k</td><td><code>███████████</code></td></tr>
+<tr><td align="center">5</td><td><b>AutoGPT</b></td><td>Agent platform</td><td align="right">188.0k</td><td><code>██████████</code></td></tr>
+<tr><td align="center">6</td><td><b>ComfyUI</b></td><td>Image and video UI</td><td align="right">146.9k</td><td><code>███████</code></td></tr>
+<tr><td align="center">7</td><td><b>Codex CLI</b></td><td>CLI coding agent</td><td align="right">135.3k</td><td><code>███████</code></td></tr>
+<tr><td align="center">8</td><td><b>OpenHands</b></td><td>Software agent</td><td align="right">93.5k</td><td><code>█████</code></td></tr>
+<tr><td align="center">9</td><td><b>LobeChat</b></td><td>Self-hosted chat UI</td><td align="right">85.5k</td><td><code>████</code></td></tr>
+<tr><td align="center">10</td><td><b>Cline</b></td><td>IDE coding agent</td><td align="right">71.6k</td><td><code>████</code></td></tr>
+</table>
+
+
+### Stars by category
+
+```mermaid
+pie showData
+    title Combined GitHub stars by category
+    "Chat apps" : 300234
+    "Coding agents" : 670653
+    "Agent bots" : 949322
+    "Workflow automation" : 278534
+    "Image and video generation UIs" : 237311
+```
+
+### Licences
+
+![Apache-2.0](https://img.shields.io/badge/Apache--2.0-9-64748b?style=flat-square) ![MIT](https://img.shields.io/badge/MIT-7-64748b?style=flat-square) ![Custom](https://img.shields.io/badge/Custom-7-64748b?style=flat-square) ![AGPL-3.0](https://img.shields.io/badge/AGPL--3.0-2-64748b?style=flat-square) ![GPL-3.0](https://img.shields.io/badge/GPL--3.0-2-64748b?style=flat-square)
+
+"Custom" or "None" means GitHub could not match a standard SPDX licence, often because of extra terms or an undeclared licence. Read the project licence before you use it commercially.
+
+## Chat apps
+
+- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - A local-first workspace that combines chat with document retrieval. A hosted product from the same authors, if offered, has its own terms. ![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat-square&label=%E2%AD%90)
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - A desktop client for chatting with local and hosted models, including multi-provider support. ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&label=%E2%AD%90)
+- [Jan](https://github.com/janhq/jan) - A local-first desktop application for running and chatting with models offline. ![Stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square&label=%E2%AD%90)
+- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - A self-hosted chat UI that can connect to many providers and to local OpenAI-compatible servers. ![Stars](https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=flat-square&label=%E2%AD%90)
+- [LobeChat](https://github.com/lobehub/lobehub) - A self-hosted chat and agent UI with plugin and multi-provider support. ![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&label=%E2%AD%90)
+
+## Coding agents
+
+- [Aider](https://github.com/Aider-AI/aider) - A command-line coding agent that edits a local Git repository with the help of an LLM. ![Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&label=%E2%AD%90)
+- [Cline](https://github.com/cline/cline) - An open-source coding agent that runs in the editor and can edit files, run commands and use tools. Confirm the current licence in the repository. ![Stars](https://img.shields.io/github/stars/cline/cline?style=flat-square&label=%E2%AD%90)
+- [Codex CLI](https://github.com/openai/codex) - OpenAI Codex CLI, an open-source command-line coding agent. Confirm the current repository licence and any model-service terms before use. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat-square&label=%E2%AD%90)
+- [Continue](https://github.com/continuedev/continue) - An open-source IDE extension for inline and chat-based coding assistance with local or hosted models. ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&label=%E2%AD%90)
+- [Goose](https://github.com/aaif-goose/goose) - An open-source, local-first coding and task agent originally from Block. The current official repository is aaif-goose/goose (the block/goose path redirects there). ![Stars](https://img.shields.io/github/stars/aaif-goose/goose?style=flat-square&label=%E2%AD%90)
+- [OpenCode](https://github.com/anomalyco/opencode) - An open-source terminal coding agent. The current official repository is anomalyco/opencode (the sst/opencode path redirects there). ![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&label=%E2%AD%90)
+- [OpenHands](https://github.com/OpenHands/OpenHands) - An open-source software-development agent that can edit repositories, run commands and work through tasks in a sandboxed environment. ![Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square&label=%E2%AD%90)
+
+## Agent bots
+
+- [Agent Zero](https://github.com/agent0ai/agent-zero) - A self-hosted agent framework that can use tools, write code and run tasks on infrastructure you control. The current official repository is agent0ai/agent-zero (previously frdel/agent-zero). GitHub currently reports no SPDX match, but the repository LICENSE file is MIT; confirm the file you ship. ![Stars](https://img.shields.io/github/stars/agent0ai/agent-zero?style=flat-square&label=%E2%AD%90)
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - A well-known agent platform that can be self-hosted. The repository uses mixed licences: classic and most of the tree are MIT, while autogpt_platform/ uses Polyform Shield, which restricts offering it as a competing hosted service. Read the licence map in the repository. ![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square&label=%E2%AD%90)
+- [ElizaOS](https://github.com/elizaOS/eliza) - An open-source TypeScript framework and product stack for autonomous agents, including connectors and a runtime. ![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=flat-square&label=%E2%AD%90)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - The official Hermes Agent from Nous Research, a self-hosted agent with a terminal UI, persistent memory and a messaging gateway for Telegram, Discord, Slack and other channels. It can use many model providers, including local endpoints. Review permissions before connecting chat accounts or API keys. ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=%E2%AD%90)
+- [Khoj](https://github.com/khoj-ai/khoj) - A self-hostable personal AI that can chat with your documents, run automations and connect from a browser or selected messaging channels. Licence is AGPL-3.0, which has network-use source-disclosure obligations. ![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square&label=%E2%AD%90)
+- [Letta](https://github.com/letta-ai/letta) - A platform for stateful agents with long-term memory, formerly MemGPT. The project README may point current development at a companion repository such as letta-ai/letta-code; confirm the source tree you deploy. It can connect to channels such as Slack, Telegram and Discord. ![Stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat-square&label=%E2%AD%90)
+- [OpenClaw](https://github.com/openclaw/openclaw) - A self-hosted personal assistant, formerly known as Moltbot and Clawdbot, that meets you in messaging channels such as Telegram, Discord, Slack and WhatsApp. It is MIT-licensed. Giving an always-on agent access to chats, files or credentials has real security implications; review the project guidance before connecting accounts. ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%AD%90)
+
+## Workflow automation
+
+- [Activepieces](https://github.com/activepieces/activepieces) - An open-source workflow automation tool that can replace many Zapier or n8n-style flows on infrastructure you control. ![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&label=%E2%AD%90)
+- [n8n](https://github.com/n8n-io/n8n) - A workflow automation platform. n8n uses a fair-code, source-available licence (Sustainable Use License), not an OSI open-source licence; read it before you host or resell it for clients. ![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&label=%E2%AD%90)
+- [Node-RED](https://github.com/node-red/node-red) - A flow-based, low-code automation runtime, widely used for wiring APIs, devices and services. ![Stars](https://img.shields.io/github/stars/node-red/node-red?style=flat-square&label=%E2%AD%90)
+- [Windmill](https://github.com/windmill-labs/windmill) - An open-source developer platform and workflow engine for scripts, flows and internal tools. ![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=flat-square&label=%E2%AD%90)
+
+## Image and video generation UIs
+
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - A node-based interface and backend for running diffusion and related image, video or audio workflows on your own GPU. Model checkpoints have their own licences. ![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&label=%E2%AD%90)
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - A simplified, local, diffusion-based image-generation UI. Check the repository licence and the licences of any model files you load. ![Stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=flat-square&label=%E2%AD%90)
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - A self-hosted creative toolkit for running diffusion models, with a professional-oriented UI. Model licences remain separate. ![Stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=flat-square&label=%E2%AD%90)
+- [SD.Next](https://github.com/vladmandic/sdnext) - A maintained automatic1111-style web UI for local Stable Diffusion and related models, also known as sdnext. Model licences remain separate. ![Stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=flat-square&label=%E2%AD%90)
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+<div align="center">
+
+If this list is useful, give it a ⭐ so others can find it.
+
+</div>
